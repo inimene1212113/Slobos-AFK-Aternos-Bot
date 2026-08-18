@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "0001201.aternos.me",
-    "port": 50721,
+    "ip": "taurionsigma.aternos.me",
+    "port": 52800,
     "version": "",
     "try-creative": false
   },
