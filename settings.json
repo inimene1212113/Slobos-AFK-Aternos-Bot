@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "skibidi1111",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "taurionsigma.aternos.me",
-    "port": 52800,
-    "version": "",
+    "ip": "Basemc66.aternos.me",
+    "port": 40853,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
